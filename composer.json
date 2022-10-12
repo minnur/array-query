@@ -14,5 +14,10 @@
             "email": "assistenza@easy-grafica.com",
             "homepage": "https://github.com/mauretto78"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "ArrayQuery\\": "src/"
+        }
+    }
 }
