@@ -1,12 +1,12 @@
 {
-    "name": "mauretto78/array-query",
+    "name": "minnur/array-query",
     "type": "library",
     "description": "Array Query",
     "keywords": ["array", "query", "php"],
-    "homepage": "https://github.com/mauretto78/array-query",
+    "homepage": "https://github.com/minnur/array-query",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/mauretto78/array-query/issues"
+        "issues": "https://github.com/minnur/array-query/issues"
     },
     "authors": [
         {
