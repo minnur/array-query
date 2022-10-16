@@ -36,6 +36,9 @@ class CriterionFilter extends AbstractFilter
         'LT_DATE' => 'LessThanDateFilter',
         'LTE_DATE' => 'LessThanEqualsDateFilter',
         'STARTS_WITH' => 'StartsWithFilter',
+        'IS_EMPTY' => 'IsEmptyFilter',
+        'IS_NOTEMPTY' => 'IsNotEmptyFilter',
+        'REGEX' => 'RegexFilter',
     ];
 
     /**
